@@ -2,37 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/Crawling/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/textExtention/VSM/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/textExtention/TF-IDF/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/preprocessing/seleksi_fitur/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/clustering/K-Means/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/Silhouette/</loc>
-     <lastmod>2019-05-02</lastmod>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/Note/</loc>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/index_web_structure/</loc>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/Crawl_link/</loc>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/Graph/</loc>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/PageRank/</loc>
+     <lastmod>2019-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://squidfunk.github.io/mkdocs-material/Note_web_structure/</loc>
+     <lastmod>2019-06-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
